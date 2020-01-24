@@ -1,4 +1,4 @@
-# Human stariatum parcellation map
+# Human Stariatum Atlas
 
 Connectivity-based parcellation of the human striatum based on resting fMRI, including 5 clusters (MNI space):  
 ventral striatum (vS)  
