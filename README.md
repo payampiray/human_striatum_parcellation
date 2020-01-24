@@ -1,4 +1,6 @@
-Connectivity-based parcellation of the human striatum based on resting fMRI, including 5 clusters:  
+# Human stariatum parcellation map
+
+Connectivity-based parcellation of the human striatum based on resting fMRI, including 5 clusters (MNI space):  
 ventral striatum (vS)  
 medial caudate (mC)  
 dorsal caudate (dC)  
