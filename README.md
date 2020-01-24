@@ -5,6 +5,8 @@ dorsal caudate (dC)
 anterior putaman (aP)  
 posterior putaman (aP)  
   
+![Clusters](Clusters.png)  
+  
 Number of clusters has been chosen based on a stability of clusters in two independent samples. See the following reference for details.  
   
 Please cite this paper if you use either of these clusters:  
